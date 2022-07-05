@@ -2,7 +2,11 @@ body {
   margin: 0;
   overflow: hidden;
 }
-#myCanvas {
+/* #myCanvas {
   width: 100vw;
   height: 100vh;
+} */
+#myCanvas {
+  width: 500px;
+  height: 500px;
 }
